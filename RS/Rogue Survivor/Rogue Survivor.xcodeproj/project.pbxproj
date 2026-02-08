@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		5182A43C2DFD5695003445D8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5182A41A2DFD5693003445D8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5182A4212DFD5693003445D8;
+			remoteInfo = "Rogue Survivor";
+		};
+		5182A4462DFD5695003445D8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5182A41A2DFD5693003445D8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5182A4212DFD5693003445D8;
+			remoteInfo = "Rogue Survivor";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		5182A4222DFD5693003445D8 /* Rogue Survivor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Rogue Survivor.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5182A43B2DFD5695003445D8 /* Rogue SurvivorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Rogue SurvivorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5182A4452DFD5695003445D8 /* Rogue SurvivorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Rogue SurvivorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		5182A4242DFD5693003445D8 /* Rogue Survivor */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Rogue Survivor";
+			sourceTree = "<group>";
+		};
+		5182A43E2DFD5695003445D8 /* Rogue SurvivorTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Rogue SurvivorTests";
+			sourceTree = "<group>";
+		};
+		5182A4482DFD5695003445D8 /* Rogue SurvivorUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Rogue SurvivorUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5182A41F2DFD5693003445D8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5182A4382DFD5695003445D8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5182A4422DFD5695003445D8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5182A4192DFD5693003445D8 = {
+			isa = PBXGroup;
+			children = (
+				5182A4242DFD5693003445D8 /* Rogue Survivor */,
+				5182A43E2DFD5695003445D8 /* Rogue SurvivorTests */,
+				5182A4482DFD5695003445D8 /* Rogue SurvivorUITests */,
+				5182A4232DFD5693003445D8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5182A4232DFD5693003445D8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5182A4222DFD5693003445D8 /* Rogue Survivor.app */,
+				5182A43B2DFD5695003445D8 /* Rogue SurvivorTests.xctest */,
+				5182A4452DFD5695003445D8 /* Rogue SurvivorUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5182A4212DFD5693003445D8 /* Rogue Survivor */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5182A44F2DFD5695003445D8 /* Build configuration list for PBXNativeTarget "Rogue Survivor" */;
+			buildPhases = (
+				5182A41E2DFD5693003445D8 /* Sources */,
+				5182A41F2DFD5693003445D8 /* Frameworks */,
+				5182A4202DFD5693003445D8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				5182A4242DFD5693003445D8 /* Rogue Survivor */,
+			);
+			name = "Rogue Survivor";
+			packageProductDependencies = (
+			);
+			productName = "Rogue Survivor";
+			productReference = 5182A4222DFD5693003445D8 /* Rogue Survivor.app */;
+			productType = "com.apple.product-type.application";
+		};
+		5182A43A2DFD5695003445D8 /* Rogue SurvivorTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5182A4522DFD5695003445D8 /* Build configuration list for PBXNativeTarget "Rogue SurvivorTests" */;
+			buildPhases = (
+				5182A4372DFD5695003445D8 /* Sources */,
+				5182A4382DFD5695003445D8 /* Frameworks */,
+				5182A4392DFD5695003445D8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5182A43D2DFD5695003445D8 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				5182A43E2DFD5695003445D8 /* Rogue SurvivorTests */,
+			);
+			name = "Rogue SurvivorTests";
+			packageProductDependencies = (
+			);
+			productName = "Rogue SurvivorTests";
+			productReference = 5182A43B2DFD5695003445D8 /* Rogue SurvivorTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		5182A4442DFD5695003445D8 /* Rogue SurvivorUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5182A4552DFD5695003445D8 /* Build configuration list for PBXNativeTarget "Rogue SurvivorUITests" */;
+			buildPhases = (
+				5182A4412DFD5695003445D8 /* Sources */,
+				5182A4422DFD5695003445D8 /* Frameworks */,
+				5182A4432DFD5695003445D8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5182A4472DFD5695003445D8 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				5182A4482DFD5695003445D8 /* Rogue SurvivorUITests */,
+			);
+			name = "Rogue SurvivorUITests";
+			packageProductDependencies = (
+			);
+			productName = "Rogue SurvivorUITests";
+			productReference = 5182A4452DFD5695003445D8 /* Rogue SurvivorUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5182A41A2DFD5693003445D8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					5182A4212DFD5693003445D8 = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					5182A43A2DFD5695003445D8 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 5182A4212DFD5693003445D8;
+					};
+					5182A4442DFD5695003445D8 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 5182A4212DFD5693003445D8;
+					};
+				};
+			};
+			buildConfigurationList = 5182A41D2DFD5693003445D8 /* Build configuration list for PBXProject "Rogue Survivor" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5182A4192DFD5693003445D8;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 5182A4232DFD5693003445D8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5182A4212DFD5693003445D8 /* Rogue Survivor */,
+				5182A43A2DFD5695003445D8 /* Rogue SurvivorTests */,
+				5182A4442DFD5695003445D8 /* Rogue SurvivorUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5182A4202DFD5693003445D8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5182A4392DFD5695003445D8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5182A4432DFD5695003445D8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5182A41E2DFD5693003445D8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5182A4372DFD5695003445D8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5182A4412DFD5695003445D8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		5182A43D2DFD5695003445D8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5182A4212DFD5693003445D8 /* Rogue Survivor */;
+			targetProxy = 5182A43C2DFD5695003445D8 /* PBXContainerItemProxy */;
+		};
+		5182A4472DFD5695003445D8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5182A4212DFD5693003445D8 /* Rogue Survivor */;
+			targetProxy = 5182A4462DFD5695003445D8 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		5182A44D2DFD5695003445D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = BUP7FK77VC;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		5182A44E2DFD5695003445D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = BUP7FK77VC;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5182A4502DFD5695003445D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = BUP7FK77VC;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Benjamin-Tia.Rogue-Survivor";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5182A4512DFD5695003445D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = BUP7FK77VC;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Benjamin-Tia.Rogue-Survivor";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		5182A4532DFD5695003445D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = BUP7FK77VC;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Benjamin-Tia.Rogue-SurvivorTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Rogue Survivor.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Rogue Survivor";
+			};
+			name = Debug;
+		};
+		5182A4542DFD5695003445D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = BUP7FK77VC;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Benjamin-Tia.Rogue-SurvivorTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Rogue Survivor.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Rogue Survivor";
+			};
+			name = Release;
+		};
+		5182A4562DFD5695003445D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = BUP7FK77VC;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Benjamin-Tia.Rogue-SurvivorUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Rogue Survivor";
+			};
+			name = Debug;
+		};
+		5182A4572DFD5695003445D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = BUP7FK77VC;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Benjamin-Tia.Rogue-SurvivorUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Rogue Survivor";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5182A41D2DFD5693003445D8 /* Build configuration list for PBXProject "Rogue Survivor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5182A44D2DFD5695003445D8 /* Debug */,
+				5182A44E2DFD5695003445D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5182A44F2DFD5695003445D8 /* Build configuration list for PBXNativeTarget "Rogue Survivor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5182A4502DFD5695003445D8 /* Debug */,
+				5182A4512DFD5695003445D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5182A4522DFD5695003445D8 /* Build configuration list for PBXNativeTarget "Rogue SurvivorTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5182A4532DFD5695003445D8 /* Debug */,
+				5182A4542DFD5695003445D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5182A4552DFD5695003445D8 /* Build configuration list for PBXNativeTarget "Rogue SurvivorUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5182A4562DFD5695003445D8 /* Debug */,
+				5182A4572DFD5695003445D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5182A41A2DFD5693003445D8 /* Project object */;
+}
