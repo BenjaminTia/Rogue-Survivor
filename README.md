@@ -51,7 +51,7 @@ RS/Rogue Survivor/
 
 ## About the Developer
 
-Built by **Benjamin Tia** — Electronics Engineering student at HKU SPACE, passionate about iOS development, game design, AI, and building things from scratch.
+Built by **Benjamin Tia** — Electronics Engineering student, passionate about iOS development, game design, AI, and building things from scratch.
 
 - GitHub: [BenjaminTia](https://github.com/BenjaminTia)
 
